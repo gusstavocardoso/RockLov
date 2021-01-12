@@ -1,0 +1,5 @@
+logs/*.log
+logs/*.hmtl
+logs/*.xml
+logs/*.json
+logs/*.png
